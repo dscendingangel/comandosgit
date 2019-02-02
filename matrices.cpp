@@ -2,6 +2,7 @@
 #define TAM 100
 #include<math.h>
 #include<stdlib.h>
+//animalus practicando git jijijijiji
 
 int simplificacionModN (int a, int b){
 	int q,r,s;
