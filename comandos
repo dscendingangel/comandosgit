@@ -1,0 +1,10 @@
+git init - inicializa el repositorio
+git status - pues ves las cosis que hay en la carpeta y las add
+git add <archivo> - agrega el archivo para hacer commit
+git commit -m "____" - haces commit y comentariooo
+git log - te muestra los ultimos 10 commis
+git diff - diferencias con el ultimo commit 
+git diff --staged - difeencia de lo que esta en add
+git remote add origin <url>
+git push -u origin master (para iniciar)
+
